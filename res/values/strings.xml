@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Salesforce OAuth2 Login!</string>
+    <string name="app_name">Salesforce OAuth2 Login</string>
+    <string name="Cancel">Cancel</string>
+    <string name="consumer_key"></string>
+    <string name="consumer_secret"></string>
+    <string name="oAuthUrl">https://na15.salesforce.com/services/oauth2/authorize?response_type=token&amp;display=touch&amp;client_id=</string>
+    <string name="callbackUrl">https://na15.salesforce.com/services/oauth2/success</string>
+    <string name="API_Version">v22.0</string>
+    <string name="Empty"></string>
+    <string name="API_ERROR">SFDC API Error</string>
+    <string name="oAuthRefreshUrl">https://na15.salesforce.com/services/oauth2/token</string>
+    <string name="API_Exception_Message">API Exception. Notify your administrator.</string>
+</resources>
